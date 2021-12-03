@@ -3,5 +3,5 @@
 
 int main ()
 {
-    /* Code pour les sons d'environnement*/
+    /* Code for rain */
 }

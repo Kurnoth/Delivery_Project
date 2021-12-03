@@ -3,5 +3,5 @@
 
 int main ()
 {
-    /* Code pour les sons des monstres*/
+    /* Code for zombies*/
 }

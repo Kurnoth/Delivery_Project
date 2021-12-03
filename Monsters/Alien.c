@@ -3,5 +3,5 @@
 
 int main ()
 {
-    /* Code pour les sons des personnages humains */
+    /* Code for aliens*/
 }
